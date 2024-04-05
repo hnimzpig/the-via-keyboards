@@ -1,11 +1,11 @@
 {
-  "name": "M50",
+  "name": "M37QAZ",
   "vendorId": "0x2184",
-  "productId": "0x0002",
+  "productId": "0x0001",
   "lighting": "none",
   "matrix": {
     "rows": 4,
-    "cols": 14
+    "cols": 10
   },
   "layouts": {
     "keymap": [
